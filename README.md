@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://autosomal.ai"><img src="https://autosomal.ai/static/autosomal-banner.png?v=3" alt="autosomal.ai" width="720"></a>
+  <a href="https://autosomal.ai"><img src="https://autosomal.ai/static/autosomal-banner.png?v=4" alt="autosomal.ai" width="720"></a>
 </p>
 
 <h1 align="center">autosomal.ai</h1>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://autosomal.ai"><img src="https://img.shields.io/badge/live-autosomal.ai-1a56db?style=flat-square" alt="Live"></a>
-  <img src="https://img.shields.io/badge/languages-25-4fd1c5?style=flat-square" alt="25 languages">
-  <img src="https://img.shields.io/badge/price-free-2ea44f?style=flat-square" alt="Free">
+  <a href="https://autosomal.ai"><img src="https://img.shields.io/badge/live-autosomal.ai-ff8a5c?style=flat-square" alt="Live"></a>
+  <img src="https://img.shields.io/badge/languages-25-f2b84b?style=flat-square" alt="25 languages">
+  <img src="https://img.shields.io/badge/price-free-ff8fab?style=flat-square" alt="Free">
 </p>
 
 <p align="center">
