@@ -6,12 +6,12 @@
 
 <p align="center">
   <b>A free AI face analyzer: age, gender, and the world regions a face resembles.</b><br>
-  One photo, a few seconds, no sign-up. In 25 languages.
+  One photo, a few seconds, no sign-up. In 29 languages.
 </p>
 
 <p align="center">
   <a href="https://autosomal.ai"><img src="https://img.shields.io/badge/live-autosomal.ai-ff8a5c?style=flat-square" alt="Live"></a>
-  <img src="https://img.shields.io/badge/languages-25-f2b84b?style=flat-square" alt="25 languages">
+  <img src="https://img.shields.io/badge/languages-29-f2b84b?style=flat-square" alt="29 languages">
   <img src="https://img.shields.io/badge/price-free-ff8fab?style=flat-square" alt="Free">
 </p>
 
@@ -39,7 +39,7 @@ Upload a selfie or use your camera, and autosomal.ai shows:
 
 ## Languages
 
-[English](https://autosomal.ai/) · [العربية](https://autosomal.ai/ar/) · [Deutsch](https://autosomal.ai/de/) · [Español](https://autosomal.ai/es/) · [فارسی](https://autosomal.ai/fa/) · [Suomi](https://autosomal.ai/fi/) · [Français](https://autosomal.ai/fr/) · [Magyar](https://autosomal.ai/hu/) · [Bahasa Indonesia](https://autosomal.ai/id/) · [日本語](https://autosomal.ai/ja/) · [Nederlands](https://autosomal.ai/nl/) · [Português](https://autosomal.ai/pt/) · [Română](https://autosomal.ai/ro/) · [Русский](https://autosomal.ai/ru/) · [Svenska](https://autosomal.ai/sv/) · [Türkçe](https://autosomal.ai/tr/) · [한국어](https://autosomal.ai/ko/) · [中文（简体）](https://autosomal.ai/zh/) · [Tiếng Việt](https://autosomal.ai/vi/) · [ไทย](https://autosomal.ai/th/) · [Filipino](https://autosomal.ai/tl/) · [हिन्दी](https://autosomal.ai/hi/) · [اردو](https://autosomal.ai/ur/) · [አማርኛ](https://autosomal.ai/am/) · [Soomaali](https://autosomal.ai/so/)
+[English](https://autosomal.ai/) · [العربية](https://autosomal.ai/ar/) · [Deutsch](https://autosomal.ai/de/) · [Español](https://autosomal.ai/es/) · [فارسی](https://autosomal.ai/fa/) · [Suomi](https://autosomal.ai/fi/) · [Français](https://autosomal.ai/fr/) · [Magyar](https://autosomal.ai/hu/) · [Bahasa Indonesia](https://autosomal.ai/id/) · [日本語](https://autosomal.ai/ja/) · [Nederlands](https://autosomal.ai/nl/) · [Português](https://autosomal.ai/pt/) · [Română](https://autosomal.ai/ro/) · [Русский](https://autosomal.ai/ru/) · [Svenska](https://autosomal.ai/sv/) · [Türkçe](https://autosomal.ai/tr/) · [한국어](https://autosomal.ai/ko/) · [中文（简体）](https://autosomal.ai/zh/) · [Tiếng Việt](https://autosomal.ai/vi/) · [ไทย](https://autosomal.ai/th/) · [Filipino](https://autosomal.ai/tl/) · [हिन्दी](https://autosomal.ai/hi/) · [اردو](https://autosomal.ai/ur/) · [አማርኛ](https://autosomal.ai/am/) · [Soomaali](https://autosomal.ai/so/) · [Bahasa Melayu](https://autosomal.ai/ms/) · [မြန်မာ](https://autosomal.ai/my/) · [ខ្មែរ](https://autosomal.ai/km/) · [ລາວ](https://autosomal.ai/lo/)
 
 ## FAQ
 
